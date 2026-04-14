@@ -1,5 +1,5 @@
 
-# Automatic Payslip Workflow
+# Ai Automatic Payslip Workflow
 
 An automated payslip generation workflow built with **n8n**.  
 This project reads employee payroll data from **Google Sheets**, generates a branded **HTML payslip**, converts it into **PDF**, sends it to employees through **Gmail**, and updates the processing status in the sheet.
