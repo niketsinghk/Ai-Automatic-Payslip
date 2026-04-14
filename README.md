@@ -141,4 +141,7 @@ Before publishing this workflow publicly:
 
 This project is for internal payroll automation and can be adapted for business use.
 
+<img width="1917" height="851" alt="image" src="https://github.com/user-attachments/assets/ee10a78d-992a-4323-9cbe-d5629f8654f2" />
+
+
 ![WhatsApp Image 2026-04-11 at 12 06 38 PM](https://github.com/user-attachments/assets/ecc8aefc-5b7d-4102-af71-4db6f2546df8)
